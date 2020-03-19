@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06f524c0-b3f0-4b93-9ae8-cd23a16908b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZL15F6yy0r4rS4Bye4ClTrKNoU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.env" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="django_shop" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django_shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="django_shop.settings" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="true" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+          <ENTRY IS_ENABLED="true" PARSER="env" PATH=".env" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06f524c0-b3f0-4b93-9ae8-cd23a16908b4" name="Default Changelist" comment="" />
+      <created>1584603374168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584603374168</updated>
+      <workItem from="1584603382446" duration="2079000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="255" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584604787244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="414" y="255" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1200.1920.1080/0.0.1920.1200@0.0.1920.1200" timestamp="1584604787244" />
+    <state x="732" y="355" key="FileChooserDialogImpl" timestamp="1584604311664">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="732" y="355" key="FileChooserDialogImpl/0.1200.1920.1080/0.0.1920.1200@0.0.1920.1200" timestamp="1584604311664" />
+    <state width="1870" height="400" key="GridCell.Tab.0.bottom" timestamp="1584605485595">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1870" height="400" key="GridCell.Tab.0.bottom/0.1200.1920.1080/0.0.1920.1200@0.0.1920.1200" timestamp="1584605485595" />
+    <state width="1870" height="400" key="GridCell.Tab.0.center" timestamp="1584605485595">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1870" height="400" key="GridCell.Tab.0.center/0.1200.1920.1080/0.0.1920.1200@0.0.1920.1200" timestamp="1584605485595" />
+    <state width="1870" height="400" key="GridCell.Tab.0.left" timestamp="1584605485595">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1870" height="400" key="GridCell.Tab.0.left/0.1200.1920.1080/0.0.1920.1200@0.0.1920.1200" timestamp="1584605485595" />
+    <state width="1870" height="400" key="GridCell.Tab.0.right" timestamp="1584605485595">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1870" height="400" key="GridCell.Tab.0.right/0.1200.1920.1080/0.0.1920.1200@0.0.1920.1200" timestamp="1584605485595" />
+    <state width="1870" height="400" key="GridCell.Tab.1.bottom" timestamp="1584605485596">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1870" height="400" key="GridCell.Tab.1.bottom/0.1200.1920.1080/0.0.1920.1200@0.0.1920.1200" timestamp="1584605485596" />
+    <state width="1870" height="400" key="GridCell.Tab.1.center" timestamp="1584605485596">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1870" height="400" key="GridCell.Tab.1.center/0.1200.1920.1080/0.0.1920.1200@0.0.1920.1200" timestamp="1584605485596" />
+    <state width="1870" height="400" key="GridCell.Tab.1.left" timestamp="1584605485596">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1870" height="400" key="GridCell.Tab.1.left/0.1200.1920.1080/0.0.1920.1200@0.0.1920.1200" timestamp="1584605485595" />
+    <state width="1870" height="400" key="GridCell.Tab.1.right" timestamp="1584605485596">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1870" height="400" key="GridCell.Tab.1.right/0.1200.1920.1080/0.0.1920.1200@0.0.1920.1200" timestamp="1584605485596" />
+  </component>
+</project>
