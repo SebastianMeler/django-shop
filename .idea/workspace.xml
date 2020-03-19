@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06f524c0-b3f0-4b93-9ae8-cd23a16908b4" name="Default Changelist" comment="" />
+    <list default="true" id="06f524c0-b3f0-4b93-9ae8-cd23a16908b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/django_shop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_shop/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZL15F6yy0r4rS4Bye4ClTrKNoU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -71,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584603374168</updated>
-      <workItem from="1584603382446" duration="2079000" />
+      <workItem from="1584603382446" duration="2552000" />
     </task>
     <servers />
   </component>
