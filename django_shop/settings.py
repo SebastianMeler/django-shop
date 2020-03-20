@@ -29,6 +29,7 @@ INSTALLED_APPS = [
     'shop',
     'cart',
     'orders',
+    'paypal.standard.ipn',
 ]
 
 MIDDLEWARE = [
@@ -119,3 +120,8 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 
 CART_SESSION_ID = 'cart'
+
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
+PAYPAL_RECIVER_EMAIL = os.environ.get('PAYPAL_RECIVER_EMAIL', 'email')
+PAYPAL_TEST = os.environ.get('PAYPAL_TEST', 'set True or False')
