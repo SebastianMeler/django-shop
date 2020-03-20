@@ -12,3 +12,6 @@ class OrderAdmin(admin.ModelAdmin):
 					'postal_code', 'city', 'paid', 'created', 'updated']
 	list_filter = ['paid', 'created', 'updated']
 	inlines = [OrderItemInline]
+
+
+admin.site.register(Order, OrderAdmin)
